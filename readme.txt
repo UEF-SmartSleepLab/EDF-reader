@@ -1,1 +1,1 @@
-Matlab code for reading EDF and EDF+ files with annotations
+Matlab and Pyhton codes for reading EDF and EDF+ files including annotation support.
